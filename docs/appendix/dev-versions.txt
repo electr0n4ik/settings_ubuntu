@@ -1,0 +1,8 @@
+## python3 --version
+Python 3.10.12
+
+## pip3 --version
+pip 25.3 from /home/userdev/.local/lib/python3.10/site-packages/pip (python 3.10)
+
+## go version
+go version go1.24.4 linux/amd64

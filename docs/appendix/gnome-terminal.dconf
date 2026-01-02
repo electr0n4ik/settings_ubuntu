@@ -1,0 +1,11 @@
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='#2C2A26'
+bold-color-same-as-fg=true
+cursor-background-color='#E0D9CF'
+cursor-colors-set=true
+cursor-foreground-color='#2C2A26'
+font='Fira Code 13'
+foreground-color='#E7E1D8'
+palette=['#2C2A26', '#D27A6A', '#9FB180', '#D5B06B', '#BFAF9B', '#C08E7A', '#A3A08A', '#E0D9CF', '#4A453F', '#E08B7A', '#B0C18C', '#E4C47A', '#CBBBA7', '#D0A08A', '#B7B39A', '#F1E9DD']
+use-system-font=false
+use-theme-colors=false
