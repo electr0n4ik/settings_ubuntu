@@ -1,6 +1,7 @@
 # Overview
 
 Bro, the goal is simple: reproduce this Ubuntu setup from zero, clean and predictable.
+Target OS: Ubuntu 22.04.5 LTS (jammy).
 
 What is covered:
 - OS packages and repositories
@@ -18,6 +19,8 @@ Layout:
 - docs/40_gnome_terminal.md: terminal export/import
 - docs/60_dev_env.md: Python and Go for beginners
 - docs/90_audit.md: optional/unneeded review
+- docs/30_apps.md: app groups and categories
+- docs/scripts/: setup scripts
 - docs/appendix/: raw inventory outputs
 
 How to use:

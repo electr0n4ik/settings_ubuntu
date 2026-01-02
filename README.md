@@ -13,6 +13,8 @@ Start here:
 - docs/60_dev_env.md
 - docs/40_gnome_terminal.md
 - docs/90_audit.md
+- docs/30_apps.md
+- docs/scripts/
 
 Русская версия:
 - docs/00_overview.ru.md
@@ -21,7 +23,11 @@ Start here:
 - docs/60_dev_env.ru.md
 - docs/40_gnome_terminal.ru.md
 - docs/90_audit.ru.md
+- docs/30_apps.ru.md
 
 Notes:
 - This repo contains documentation and scripts only. Do not store secrets.
 - Inventory data is recorded under docs/appendix/.
+- The appendix lists apt sources; treat it as public info.
+- Security policy: SECURITY.md
+- License: LICENSE
